@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.principal {
+
+    margin: auto;
+    display: grid;
+    margin-top: 20%;
+    margin-left: -5%;
+}  
+
+#number {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+
+.titulo {
+    font-size: 45px
+}
+
+.botao {
+    color: aliceblue;
+    font-size: 20px;
+  font-weight: 600;
+  background-color: rgba(224, 27, 47, 0.887);
+  border-radius: 5px;
+  border: 0;
+  padding: 15px 65px;
+  cursor: pointer;
+}
+
+.dimg {
+    width: 400px;
+    margin: auto;
+    display: grid;
+    margin-top: 200px;
+}
